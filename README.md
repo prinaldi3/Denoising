@@ -1,2 +1,4 @@
 # Denoising Project
-A collection of Google Colab notebooks related to the construction, training, and testing of convolutional autoencoders for the purpose of removing noise from diffraction data.  
+These notebooks were developed as part of a SULI project that I completed at Brookhaven National Lab. They should be useful for recreating the most important results presented in the report. If you have any questions, please don't hesitate to reach out to me! --> pg3rinaldi@gmail.com
+
+
